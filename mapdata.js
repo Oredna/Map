@@ -363,8 +363,8 @@ var simplemaps_worldmap_mapdata={
     },
     IT: {
       name: "Italy",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
-    },
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Italy-License'><button type='button'>License regime</button></a>\n    <a href='#Italy-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Italy-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Italy-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Italy-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Italy-Fees'><button type='button'>Fees</button></a>\n    <a href='#Italy-Obligations'><button type='button'>Obligations</button></a>\n  </div>"    },
     JM: {
       name: "Jamaica",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
