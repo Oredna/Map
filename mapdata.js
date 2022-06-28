@@ -223,8 +223,8 @@ var simplemaps_worldmap_mapdata={
     },
     DE: {
       name: "Germany",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
-    },
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Germany-License'><button type='button'>License regime</button></a>\n    <a href='#Germany-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Germany-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Germany-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Germany-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Germany-Fees'><button type='button'>Fees</button></a>\n    <a href='#Germany-Obligations'><button type='button'>Obligations</button></a>\n  </div>"    },
     DJ: {
       name: "Djibouti",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
