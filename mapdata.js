@@ -131,7 +131,8 @@ var simplemaps_worldmap_mapdata={
     },
     BG: {
       name: "Bulgaria",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Bulgaria-License'><button type='button'>License regime</button></a>\n    <a href='#Bulgaria-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Bulgaria-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Bulgaria-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Bulgaria-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Bulgaria-Fees'><button type='button'>Fees</button></a>\n    <a href='#Bulgaria-Obligations'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     BH: {
       name: "Bahrain",
@@ -431,7 +432,8 @@ var simplemaps_worldmap_mapdata={
     },
     LT: {
       name: "Lithuania",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Lithuania-License'><button type='button'>License regime</button></a>\n    <a href='#Lithuania-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Lithuania-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Lithuania-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Lithuania-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Lithuania-Fees'><button type='button'>Fees</button></a>\n    <a href='#Lithuania-Obligations'><button type='button'>Obligations</button></a>\n  </div>"   
     },
     LU: {
       name: "Luxembourg",
@@ -511,7 +513,8 @@ var simplemaps_worldmap_mapdata={
     },
     NL: {
       name: "Netherlands",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Netherlands-License'><button type='button'>License regime</button></a>\n    <a href='#Netherlands-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Netherlands-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Netherlands-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Netherlands-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Netherlands-Fees'><button type='button'>Fees</button></a>\n    <a href='#Netherlands-Obligations'><button type='button'>Obligations</button></a>\n  </div>"       
     },
     NO: {
       name: "Norway",
@@ -742,11 +745,13 @@ var simplemaps_worldmap_mapdata={
     FR: {
       name: "France",
       color: "#284fd0",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#France-License'><button type='button'>License regime</button></a>\n    <a href='#France-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#France-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#France-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#France-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#France-Fees'><button type='button'>Fees</button></a>\n    <a href='#France-Obligations'><button type='button'>Obligations</button></a>\n  </div>"    },
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#France-License'><button type='button'>License regime</button></a>\n    <a href='#France-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#France-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#France-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#France-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#France-Fees'><button type='button'>Fees</button></a>\n    <a href='#France-Obligations'><button type='button'>Obligations</button></a>\n  </div>"    
+    },
     ES: {
       name: "Spain",
       color: "#284fd0",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Spain-License'><button type='button'>License regime</button></a>\n    <a href='#Spain-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Spain-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Spain-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Spain-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Spain-Fees'><button type='button'>Fees</button></a>\n    <a href='#Spain-Obligations'><button type='button'>Obligations</button></a>\n  </div>" },
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Spain-License'><button type='button'>License regime</button></a>\n    <a href='#Spain-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Spain-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Spain-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Spain-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Spain-Fees'><button type='button'>Fees</button></a>\n    <a href='#Spain-Obligations'><button type='button'>Obligations</button></a>\n  </div>" 
+    },
     AW: {
       name: "Aruba",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
@@ -905,7 +910,8 @@ var simplemaps_worldmap_mapdata={
     },
     CY: {
       name: "Cyprus",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Cyprus-License'><button type='button'>License regime</button></a>\n    <a href='#Cyprus-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Cyprus-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Cyprus-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Cyprus-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Cyprus-Fees'><button type='button'>Fees</button></a>\n    <a href='#Cybrus-Obligations'><button type='button'>Obligations</button></a>\n  </div>"       
     },
     RE: {
       name: "Reunion (France)",
