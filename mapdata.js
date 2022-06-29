@@ -560,8 +560,8 @@ var simplemaps_worldmap_mapdata={
     },
     PT: {
       name: "Portugal",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
-    },
+      color: "#284fd0",
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Portugal-License'><button type='button'>License regime</button></a>\n    <a href='#Portugal-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Portugal-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Portugal-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Portugal-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Portugal-Fees'><button type='button'>Fees</button></a>\n    <a href='#Portugal-Obligations'><button type='button'>Obligations</button></a>\n  </div>" },    },
     PY: {
       name: "Paraguay",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
