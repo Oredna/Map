@@ -20,7 +20,7 @@ var simplemaps_worldmap_mapdata={
     location_opacity: 0.8,
     location_hover_opacity: 1,
     location_url: "",
-    location_size: 25,
+    location_size: 5,
     location_type: "square",
     location_image_source: "frog.png",
     location_border_color: "#FFFFFF",
