@@ -944,7 +944,8 @@ var simplemaps_worldmap_mapdata={
         lng: "1.5218",
         name: "Andorra",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Andorra-License'><button type='button'>License regime</button></a>\n    <a href='#Andorra-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Andorra-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Andorra-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Andorra-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Andorra-Fees'><button type='button'>Fees</button></a>\n    <a href='#Andorra-Obligations'><button type='button'>Obligations</button></a>\n  </div>",
-        size: "8"
+        size: "5",
+        scale: "no"
       }
   },
   labels: {},
