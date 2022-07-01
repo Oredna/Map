@@ -911,7 +911,7 @@ var simplemaps_worldmap_mapdata={
     CY: {
       name: "Cyprus",
       color: "#284fd0",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Cyprus-License'><button type='button'>License regime</button></a>\n    <a href='#Cyprus-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Cyprus-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Cyprus-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Cyprus-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Cyprus-Fees'><button type='button'>Fees</button></a>\n    <a href='#Cybrus-Obligations'><button type='button'>Obligations</button></a>\n  </div>"       
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Cyprus-License'><button type='button'>License regime</button></a>\n    <a href='#Cyprus-Authorities'><button type='button'>Authorities</button></a>\n    <a href='#Cyprus-Laws'><button type='button'>Applicable Laws</button></a>\n    <a href='#Cyprus-Requirements'><button type='button'>Requirements</button></a>\n    <a href='#Cyprus-Definitions'><button type='button'>Definitions</button></a>\n    <a href='#Cyprus-Fees'><button type='button'>Fees</button></a>\n    <a href='#Cyprus-Obligations'><button type='button'>Obligations</button></a>\n  </div>"       
     },
     RE: {
       name: "Reunion (France)",
