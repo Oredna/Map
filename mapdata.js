@@ -956,7 +956,21 @@ var simplemaps_worldmap_mapdata={
   },
   labels: {},
   legend: {
-    entries: []
+    entries: [      
+      {
+        name: "Ban",
+        color: "#FF0067",
+        type: "",
+        shape: "",
+        ids: ""
+      },
+      {
+        name: "Researched",
+        color: "#284fd0",
+        type: "",
+        shape: "",
+        ids: ""
+      }]
   },
   regions: {
     "0": {
