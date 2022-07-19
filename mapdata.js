@@ -683,7 +683,7 @@ var simplemaps_worldmap_mapdata={
     },
     TR: {
       name: "Turkey",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='https://nexoio.atlassian.net/wiki/spaces/~62b01cb3673f2103622ca0da/pages/2556297285/Sample+Pages'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='https://nexoio.atlassian.net/wiki/spaces/~62b01cb3673f2103622ca0da/pages/2556297285/Sample+Pages' target='_blank'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
     },
     TW: {
       name: "Taiwan",
