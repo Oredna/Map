@@ -182,7 +182,8 @@ var simplemaps_worldmap_mapdata={
     },
     CH: {
       name: "Switzerland",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF9D5C",
+      description: "<a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2715680808/Switzerland+in+progress' target='_blank'><button type='button'>In progress, link here</button></a>"
     },
     CL: {
       name: "Chile",
@@ -873,7 +874,8 @@ var simplemaps_worldmap_mapdata={
     },
     SG: {
       name: "Singapore",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF9D5C",
+      description: "<a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2716368919/Singapore+in+progress' target='_blank'><button type='button'>In progress, link here</button></a>"
     },
     SB: {
       name: "Solomon Islands",
@@ -961,6 +963,13 @@ var simplemaps_worldmap_mapdata={
       {
         name: "Ban",
         color: "#FF0067",
+        type: "",
+        shape: "",
+        ids: ""
+      },
+      {
+        name: "In progress",
+        color: "#FF9D5C",
         type: "",
         shape: "",
         ids: ""
