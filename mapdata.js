@@ -984,13 +984,15 @@ var simplemaps_worldmap_mapdata={
         lng: "-2.364351",
         name: "Channel Islands",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#License-regime-(Channel-Islands)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Authorities-(Channel-Islands)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Applicable-Laws-(Channel-Islands)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Requirements-(Channel-Islands)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Definitions-(Channel-Islands)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Fees-(Channel-Islands)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Obligations-(Channel-Islands)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",             size: "2",
+        size: "2",
         scale: "no"
       },
       "3": {
         lat: "36.1408",
-        lng: "5.3536",
+        lng: "-5.3536",
         name: "Gibraltar",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#License-regime-(Gibraltar)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Authorities-(Gibraltar)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Applicable-Laws-(Gibraltar)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Requirements-(Gibraltar)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Definitions-(Gibraltar)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Fees-(Gibraltar)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Obligations-(Gibraltar)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        size: "2",
         scale: "no"
       },
       "4": {
@@ -998,6 +1000,7 @@ var simplemaps_worldmap_mapdata={
         lng: "12.4534",
         name: "Holy See",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#License-regime-(Holy-See)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Authorities-(Holy-See)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Applicable-Laws-(Holy-See)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Requirements-(Holy-See)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Definitions-(Holy-See)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Fees-(Holy-See)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Obligations-(Holy-See)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",        
+        size: "2",
         scale: "no"
       },
       "5": {
@@ -1005,6 +1008,7 @@ var simplemaps_worldmap_mapdata={
         lng: "4.5481",
         name: "Isle of Man",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#License-regime-(Isle-of-Man)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Authorities-(Isle-of-Man)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Applicable-Laws-(Isle-of-Man)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Requirements-(Isle-of-Man)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Definitions-(Isle-of-Man)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Fees-(Isle-of-Man)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Obligations-(Isle-of-Man)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        size: "2",
         scale: "no"
       },
       "6": {
@@ -1012,6 +1016,7 @@ var simplemaps_worldmap_mapdata={
         lng: "7.4246",
         name: "Monaco",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#License-regime-(Monaco)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Authorities-(Monaco)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Applicable-Laws-(Monaco)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Requirements-(Monaco)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Definitions-(Monaco)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Fees-(Monaco)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Obligations-(Monaco)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        size: "2",
         scale: "no"
       },
       "7": {
@@ -1019,6 +1024,7 @@ var simplemaps_worldmap_mapdata={
         lng: "12.4578",
         name: "San Marino",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#License-regime-(San-Marino)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Authorities-(San-Marino)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Applicable-Laws-(San-Marino)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Requirements-(San-Marino)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Definitions-(San-Marino)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Fees-(San-Marino)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Obligations-(San-Marino)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        size: "2",
         scale: "no"
       }
   },
