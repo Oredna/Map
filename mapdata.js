@@ -105,7 +105,7 @@ var simplemaps_worldmap_mapdata={
     AT: {
       name: "Austria",
       color: "#284fd0",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#License-regime-(Austria)' target='_blank'><button type='button'>License regime</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Authorities-(Austria)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2593652737/Cyprus#Applicable-Laws-(Cyprus)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2593652737/Cyprus#Requirements-(Cyprus)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2593652737/Cyprus#Definitions-(Cyprus)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2593652737/Cyprus#Fees-(Cyprus)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2593652737/Cyprus#Obligations-(Cyprus)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"       
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#License-regime-(Austria)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Authorities-(Austria)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Applicable-Laws-(Austria)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Requirements-(Austria)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Definitions-(Austria)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Fees-(Austria)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863553/Austria#Obligations-(Austria)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     AZ: {
       name: "Azerbaijan",
@@ -117,7 +117,7 @@ var simplemaps_worldmap_mapdata={
     },
     BE: {
       name: "Belgium",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#License-regime-(Belgium)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#Authorities-(Belgium)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#Applicable-Laws-(Belgium)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#Requirements-(Belgium)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#Definitions-(Belgium)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#Fees-(Belgium)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896334/Belgium#Obligations-(Belgium)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     BJ: {
       name: "Benin",
@@ -143,11 +143,11 @@ var simplemaps_worldmap_mapdata={
     },
     BA: {
       name: "Bosnia and Herzegovina",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#License-regime-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#Authorities-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#Applicable-Laws-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#Requirements-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#Definitions-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#Fees-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929089/Bosnia+and+Herzegovina#Obligations-(Bosnia-and-Herzegovina)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     BY: {
       name: "Belarus",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#License-regime-(Belarus)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#Authorities-(Belarus)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#Applicable-Laws-(Belarus)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#Requirements-(Belarus)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#Definitions-(Belarus)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#Fees-(Belarus)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739896321/Belarus#Obligations-(Belarus)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     BZ: {
       name: "Belize",
@@ -226,7 +226,7 @@ var simplemaps_worldmap_mapdata={
     },
     CZ: {
       name: "Czech Republic",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#License-regime-(Czech-Republic)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#Authorities-(Czech-Republic)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#Applicable-Laws-(Czech-Republic)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#Requirements-(Czech-Republic)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#Definitions-(Czech-Republic)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#Fees-(Czech-Republic)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929102/Czech+Republic#Obligations-(Czech-Republic)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     DE: {
       name: "Germany",
@@ -239,7 +239,7 @@ var simplemaps_worldmap_mapdata={
     },
     DK: {
       name: "Denmark",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#License-regime-(Denmark)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#Authorities-(Denmark)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#Applicable-Laws-(Denmark)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#Requirements-(Denmark)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#Definitions-(Denmark)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#Fees-(Denmark)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929115/Denmark#Obligations-(Denmark)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     DO: {
       name: "Dominican Republic",
@@ -264,7 +264,7 @@ var simplemaps_worldmap_mapdata={
     },
     EE: {
       name: "Estonia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#License-regime-(Estonia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#Authorities-(Estonia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#Applicable-Laws-(Estonia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#Requirements-(Estonia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#Definitions-(Estonia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#Fees-(Estonia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994625/Estonia#Obligations-(Estonia)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     ET: {
       name: "Ethiopia",
@@ -272,7 +272,7 @@ var simplemaps_worldmap_mapdata={
     },
     FI: {
       name: "Finland",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#License-regime-(Finland)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#Authorities-(Finland)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#Applicable-Laws-(Finland)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#Requirements-(Finland)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#Definitions-(Finland)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#Fees-(Finland)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994638/Finland#Obligations-(Finland)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     FJ: {
       name: "Fiji",
@@ -284,7 +284,7 @@ var simplemaps_worldmap_mapdata={
     },
     GB: {
       name: "United Kingdom",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#License-regime-(United-Kingdom)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#Authorities-(United-Kingdom)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#Applicable-Laws-(United-Kingdom)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#Requirements-(United-Kingdom)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#Definitions-(United-Kingdom)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#Fees-(United-Kingdom)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060252/United+Kingdom#Obligations-(United-Kingdom)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     GE: {
       name: "Georgia",
@@ -312,7 +312,7 @@ var simplemaps_worldmap_mapdata={
     },
     GR: {
       name: "Greece",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#License-regime-(Greece)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#Authorities-(Greece)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#Applicable-Laws-(Greece)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#Requirements-(Greece)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#Definitions-(Greece)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#Fees-(Greece)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027406/Greece#Obligations-(Greece)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     GL: {
       name: "Greenland",
@@ -332,7 +332,7 @@ var simplemaps_worldmap_mapdata={
     },
     HR: {
       name: "Croatia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#License-regime-(Croatia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#Authorities-(Croatia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#Applicable-Laws-(Croatia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#Requirements-(Croatia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#Definitions-(Croatia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#Fees-(Croatia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863579/Croatia#Obligations-(Croatia)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     HT: {
       name: "Haiti",
@@ -340,7 +340,7 @@ var simplemaps_worldmap_mapdata={
     },
     HU: {
       name: "Hungary",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#License-regime-(Hungary)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Authorities-(Hungary)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Applicable-Laws-(Hungary)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Requirements-(Hungary)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Definitions-(Hungary)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Fees-(Hungary)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Obligations-(Hungary)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     ID: {
       name: "Indonesia",
@@ -365,7 +365,7 @@ var simplemaps_worldmap_mapdata={
     },
     IS: {
       name: "Iceland",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#License-regime-(Ireland)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#Authorities-(Ireland)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#Applicable-Laws-(Ireland)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#Requirements-(Ireland)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#Definitions-(Ireland)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#Fees-(Ireland)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994677/Ireland#Obligations-(Ireland)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     IL: {
       name: "Israel",
@@ -455,7 +455,7 @@ var simplemaps_worldmap_mapdata={
     },
     LV: {
       name: "Latvia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#License-regime-(Latvia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#Authorities-(Latvia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#Applicable-Laws-(Latvia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#Requirements-(Latvia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#Definitions-(Latvia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#Fees-(Latvia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060161/Latvia#Obligations-(Latvia)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     MA: {
       name: "Morocco",
@@ -463,7 +463,7 @@ var simplemaps_worldmap_mapdata={
     },
     MD: {
       name: "Moldova",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#License-regime-(Moldova)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#Authorities-(Moldova)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#Applicable-Laws-(Moldova)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#Requirements-(Moldova)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#Definitions-(Moldova)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#Fees-(Moldova)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060265/Moldova#Obligations-(Moldova)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     MG: {
       name: "Madagascar",
@@ -475,7 +475,7 @@ var simplemaps_worldmap_mapdata={
     },
     MK: {
       name: "Macedonia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#License-regime-(North-Macedonia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#Authorities-(North-Macedonia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#Applicable-Laws-(North-Macedonia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#Requirements-(North-Macedonia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#Definitions-(North-Macedonia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#Fees-(North-Macedonia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060187/North+Macedonia#Need-for-registration-and-insurance' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     ML: {
       name: "Mali",
@@ -488,7 +488,7 @@ var simplemaps_worldmap_mapdata={
     },
     ME: {
       name: "Montenegro",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#License-regime-(Montenegro)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#Authorities-(Montenegro)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#Applicable-Laws-(Montenegro)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#Requirements-(Montenegro)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#Definitions-(Montenegro)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#Fees-(Montenegro)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092955/Montenegro#Obligations-(Montenegro)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     MN: {
       name: "Mongolia",
@@ -533,7 +533,7 @@ var simplemaps_worldmap_mapdata={
     },
     NO: {
       name: "Norway",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#License-regime-(Norway)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#Authorities-(Norway)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#Applicable-Laws-(Norway)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#Requirements-(Norway)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#Definitions-(Norway)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#Fees-(Norway)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060200/Norway#Obligations-(Norway)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     NP: {
       name: "Nepal",
@@ -599,11 +599,11 @@ var simplemaps_worldmap_mapdata={
     },
     RO: {
       name: "Romania",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#License-regime-(Romania)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#Authorities-(Romania)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#Applicable-Laws-(Romania)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#Requirements-(Romania)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#Definitions-(Romania)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#Fees-(Romania)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092968/Romania#Obligations-(Romania)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     RU: {
       name: "Russia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#License-regime-(Russia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#Authorities-(Russia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#Applicable-Laws-(Russia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#Requirements-(Russia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#Definitions-(Russia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#Fees-(Russia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092981/Russia#Obligations-(Russia)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     RW: {
       name: "Rwanda",
@@ -640,7 +640,7 @@ var simplemaps_worldmap_mapdata={
     },
     RS: {
       name: "Serbia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#License-regime-(Serbia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#Authorities-(Serbia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#Applicable-Laws-(Serbia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#Requirements-(Serbia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#Definitions-(Serbia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#Fees-(Serbia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060213/Serbia#Obligations-(Serbia)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     SR: {
       name: "Suriname",
@@ -648,15 +648,15 @@ var simplemaps_worldmap_mapdata={
     },
     SK: {
       name: "Slovakia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#License-regime-(Slovakia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#Authorities-(Slovakia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#Applicable-Laws-(Slovakia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#Requirements-(Slovakia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#Definitions-(Slovakia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#Fees-(Slovakia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060226/Slovakia#Obligations-(Country_name)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     SI: {
       name: "Slovenia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#License-regime-(Slovenia)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#Authorities-(Slovenia)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#Applicable-Laws-(Slovenia)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#Requirements-(Slovenia)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#Definitions-(Slovenia)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#Fees-(Slovenia)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093007/Slovenia#Obligations-(Slovenia)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     SE: {
       name: "Sweden",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#License-regime-(Sweden)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#Authorities-(Sweden)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#Applicable-Laws-(Sweden)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#Requirements-(Sweden)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#Definitions-(Sweden)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#Fees-(Sweden)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740093020/Sweden#Obligations-(Sweden)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     SZ: {
       name: "Swaziland",
@@ -714,7 +714,7 @@ var simplemaps_worldmap_mapdata={
     },
     UA: {
       name: "Ukraine",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#License-regime-(Ukraine)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#Authorities-(Ukraine)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#Applicable-Laws-(Ukraine)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#Requirements-(Ukraine)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#Definitions-(Ukraine)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#Fees-(Ukraine)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060239/Ukraine#Obligations-(Ukraine)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     UY: {
       name: "Uruguay",
@@ -824,7 +824,7 @@ var simplemaps_worldmap_mapdata={
     },
     FO: {
       name: "Faeroe Islands",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#License-regime-(Faeroe-Islands)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#Authorities-(Faeroe-Islands)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#Applicable-Laws-(Faeroe-Islands)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#Requirements-(Faeroe-Islands)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#Definitions-(Faeroe-Islands)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#Fees-(Faeroe-Islands)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740027393/Faeroe+Islands#Obligations-(Faeroe-Islands)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     GD: {
       name: "Grenada",
@@ -844,7 +844,7 @@ var simplemaps_worldmap_mapdata={
     },
     LI: {
       name: "Liechtenstein",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#License-regime-(Liechtenstein)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#Authorities-(Liechtenstein)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#Applicable-Laws-(Liechtenstein)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#Requirements-(Liechtenstein)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#Definitions-(Liechtenstein)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#Fees-(Liechtenstein)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092929/Liechtenstein#Obligations-(Liechtenstein)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     MF: {
       name: "Saint Martin (French)",
@@ -856,7 +856,7 @@ var simplemaps_worldmap_mapdata={
     },
     MT: {
       name: "Malta",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#License-regime-(Malta)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#Authorities-(Malta)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#Applicable-Laws-(Malta)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#Requirements-(Malta)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#Definitions-(Malta)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#Fees-(Malta)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092942/Malta#Obligations-(Malta)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     MS: {
       name: "Montserrat",
@@ -975,8 +975,50 @@ var simplemaps_worldmap_mapdata={
         lng: "113.5439",
         color: "#FF0067",
         name: "Macao",
-        description: "<div class=\"wrapper\" style=\"display: grid\">\n  <a href='' target='_blank'><button type='button'>General Crypto Ban</button></a></div>"
+        description: "<div class=\"wrapper\" style=\"display: grid\">\n  <a href='' target='_blank'><button type='button'>General Crypto Ban</button></a></div>",
         size: "2",
+        scale: "no"
+      },
+      "2": {
+        lat: "49.372284",
+        lng: "-2.364351",
+        name: "Channel Islands",
+        description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#License-regime-(Channel-Islands)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Authorities-(Channel-Islands)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Applicable-Laws-(Channel-Islands)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Requirements-(Channel-Islands)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Definitions-(Channel-Islands)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Fees-(Channel-Islands)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739863566/Channel+Islands#Obligations-(Channel-Islands)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",             size: "2",
+        scale: "no"
+      },
+      "3": {
+        lat: "36.1408",
+        lng: "5.3536",
+        name: "Gibraltar",
+        description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#License-regime-(Gibraltar)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Authorities-(Gibraltar)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Applicable-Laws-(Gibraltar)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Requirements-(Gibraltar)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Definitions-(Gibraltar)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Fees-(Gibraltar)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739929128/Gibraltar#Obligations-(Gibraltar)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        scale: "no"
+      },
+      "4": {
+        lat: "41.9029",
+        lng: "12.4534",
+        name: "Holy See",
+        description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#License-regime-(Holy-See)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Authorities-(Holy-See)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Applicable-Laws-(Holy-See)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Requirements-(Holy-See)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Definitions-(Holy-See)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Fees-(Holy-See)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994651/Holy+See#Obligations-(Holy-See)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",        
+        scale: "no"
+      },
+      "5": {
+        lat: "54.2361",
+        lng: "4.5481",
+        name: "Isle of Man",
+        description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#License-regime-(Isle-of-Man)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Authorities-(Isle-of-Man)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Applicable-Laws-(Isle-of-Man)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Requirements-(Isle-of-Man)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Definitions-(Isle-of-Man)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Fees-(Isle-of-Man)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Obligations-(Isle-of-Man)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        scale: "no"
+      },
+      "6": {
+        lat: "43.7384",
+        lng: "7.4246",
+        name: "Monaco",
+        description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#License-regime-(Monaco)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Authorities-(Monaco)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Applicable-Laws-(Monaco)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Requirements-(Monaco)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Definitions-(Monaco)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Fees-(Monaco)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740060174/Monaco#Obligations-(Monaco)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
+        scale: "no"
+      },
+      "7": {
+        lat: "43.9424",
+        lng: "12.4578",
+        name: "San Marino",
+        description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#License-regime-(San-Marino)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Authorities-(San-Marino)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Applicable-Laws-(San-Marino)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Requirements-(San-Marino)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Definitions-(San-Marino)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Fees-(San-Marino)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2740092994/San+Marino#Obligations-(San-Marino)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
         scale: "no"
       }
   },
@@ -1116,29 +1158,12 @@ var simplemaps_worldmap_mapdata={
       ]
     },
     "3": {
-      name: "Africa and the Middle East",
+      name: "Africa",
       states: [
-        "QA",
-        "BH",
-        "SA",
-        "AE",
         "SY",
         "OM",
         "KW",
-        "PK",
-        "AZ",
-        "AF",
-        "IR",
-        "IQ",
-        "IL",
-        "PS",
-        "JO",
         "LB",
-        "YE",
-        "TJ",
-        "TM",
-        "UZ",
-        "KG",
         "NE",
         "AO",
         "EG",
@@ -1200,8 +1225,25 @@ var simplemaps_worldmap_mapdata={
       ]
     },
     "4": {
-      name: "South Asia",
+      name: "Asia",
       states: [
+        "YE",
+        "TJ",
+        "TM",
+        "UZ",
+        "KG",
+        "PS",
+        "JO",
+        "PK",
+        "AZ",
+        "AF",
+        "IR",
+        "IQ",
+        "IL",
+        "QA",
+        "BH",
+        "SA",
+        "AE",
         "SG",
         "TW",
         "IN",
@@ -1230,12 +1272,7 @@ var simplemaps_worldmap_mapdata={
         "MV",
         "NC",
         "VU",
-        "NR"
-      ]
-    },
-    "5": {
-      name: "North Asia",
-      states: [
+        "NR",
         "MN",
         "RU",
         "KZ"
