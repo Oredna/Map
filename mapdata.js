@@ -1005,7 +1005,7 @@ var simplemaps_worldmap_mapdata={
       },
       "5": {
         lat: "54.2361",
-        lng: "4.5481",
+        lng: "-4.5481",
         name: "Isle of Man",
         description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#License-regime-(Isle-of-Man)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Authorities-(Isle-of-Man)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Applicable-Laws-(Isle-of-Man)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Requirements-(Isle-of-Man)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Definitions-(Isle-of-Man)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Fees-(Isle-of-Man)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994690/Isle+of+Man#Obligations-(Isle-of-Man)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>",     
         size: "2",
