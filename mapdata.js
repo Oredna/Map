@@ -125,11 +125,13 @@ var simplemaps_worldmap_mapdata={
     },
     BJ: {
       name: "Benin",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     BF: {
       name: "Burkina Faso",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     BD: {
       name: "Bangladesh",
@@ -207,7 +209,8 @@ var simplemaps_worldmap_mapdata={
     },
     CI: {
       name: "Côte d'Ivoire",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     CM: {
       name: "Cameroon",
@@ -215,11 +218,13 @@ var simplemaps_worldmap_mapdata={
     },
     CD: {
       name: "Democratic Republic of the Congo",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     CG: {
       name: "Republic of Congo",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     CO: {
       name: "Colombia",
@@ -267,7 +272,8 @@ var simplemaps_worldmap_mapdata={
     },
     EG: {
       name: "Egypt",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     ER: {
       name: "Eritrea",
@@ -289,7 +295,8 @@ var simplemaps_worldmap_mapdata={
     },
     FJ: {
       name: "Fiji",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     GA: {
       name: "Gabon",
@@ -340,7 +347,8 @@ var simplemaps_worldmap_mapdata={
     },
     GY: {
       name: "Guyana",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     HN: {
       name: "Honduras",
@@ -357,6 +365,7 @@ var simplemaps_worldmap_mapdata={
     },
     HU: {
       name: "Hungary",
+      color: "#FF9D5C",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#License-regime-(Hungary)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Authorities-(Hungary)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Applicable-Laws-(Hungary)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Requirements-(Hungary)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Definitions-(Hungary)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Fees-(Hungary)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2739994664/Hungary#Obligations-(Hungary)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     ID: {
@@ -371,6 +380,7 @@ var simplemaps_worldmap_mapdata={
     },
     IE: {
       name: "Ireland",
+      color: "#FF9D5C",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
     },
     IR: {
@@ -409,6 +419,7 @@ var simplemaps_worldmap_mapdata={
     },
     JP: {
       name: "Japan",
+      color: "#FF9D5C",
       description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#License-regime-(Japan)' target='_blank'><button type='button'>License regime</button></a>\n  <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#Authorities-(Japan)' target='_blank'><button type='button'>Authorities</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#Applicable-Laws-(Japan)' target='_blank'><button type='button'>Applicable Laws</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#Requirements-(Japan)' target='_blank'><button type='button'>Requirements</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#Definitions-(Japan)' target='_blank'><button type='button'>Definitions</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#Fees-(Japan)' target='_blank'><button type='button'>Fees</button></a>\n    <a href='https://nexoio.atlassian.net/wiki/spaces/L/pages/2734260268/Japan#Obligations-(Country_name)' target='_blank'><button type='button'>Obligations</button></a>\n  </div>"     
     },
     KZ: {
@@ -456,11 +467,13 @@ var simplemaps_worldmap_mapdata={
     },
     LR: {
       name: "Liberia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     LY: {
       name: "Libya",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     LK: {
       name: "Sri Lanka",
@@ -488,7 +501,8 @@ var simplemaps_worldmap_mapdata={
     },
     MA: {
       name: "Morocco",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     MD: {
       name: "Moldova",
@@ -510,7 +524,8 @@ var simplemaps_worldmap_mapdata={
     },
     ML: {
       name: "Mali",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     MM: {
       name: "Myanmar",
@@ -537,7 +552,8 @@ var simplemaps_worldmap_mapdata={
     },
     MW: {
       name: "Malawi",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     MY: {
       name: "Malaysia",
@@ -546,7 +562,8 @@ var simplemaps_worldmap_mapdata={
     },
     NA: {
       name: "Namibia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     NE: {
       name: "Niger",
@@ -647,7 +664,8 @@ var simplemaps_worldmap_mapdata={
     },
     RW: {
       name: "Rwanda",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     EH: {
       name: "Western Sahara",
@@ -713,7 +731,8 @@ var simplemaps_worldmap_mapdata={
     },
     TD: {
       name: "Chad",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     TG: {
       name: "Togo",
@@ -756,7 +775,8 @@ var simplemaps_worldmap_mapdata={
     },
     TZ: {
       name: "Tanzania",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     UG: {
       name: "Uganda",
@@ -804,11 +824,13 @@ var simplemaps_worldmap_mapdata={
     },
     ZM: {
       name: "Zambia",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     ZW: {
       name: "Zimbabwe",
-      description: "<div class=\"wrapper\" style=\"display: grid;grid-template-columns: repeat(3, 1fr);gap: 2px;\">\n    <a href='#Link'><button type='button'>License regime</button></a>\n    <a href='#Link'><button type='button'>Authorities</button></a>\n    <a href='#Link'><button type='button'>Applicable Laws</button></a>\n    <a href='#Link'><button type='button'>Requirements</button></a>\n    <a href='#Link'><button type='button'>Definitions</button></a>\n    <a href='#Link'><button type='button'>Fees</button></a>\n    <a href='#Link'><button type='button'>Obligations</button></a>\n  </div>"
+      color: "#FF0067",
+      description: "General Crypto Ban"
     },
     SO: {
       name: "Somalia",
